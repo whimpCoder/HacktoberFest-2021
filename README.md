@@ -1,4 +1,4 @@
-## ![Hacktober Fest 2020](HacktoberFest2020.jpg)
+## ![Hacktober Fest 2020](HacktoberFest.jpg)
 
 # [HacktoberFest-2020](https://hacktoberfest.digitalocean.com/)
 
