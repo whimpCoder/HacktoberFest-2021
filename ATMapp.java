@@ -7,7 +7,7 @@ public class AdvancedApp {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
 
-        System.out.println("WEKCOME");
+        System.out.println("WELCOME");
         System.out.println("Please enter your AccountNUmber");
         long accoutnNumber = scanner.nextLong();
 
